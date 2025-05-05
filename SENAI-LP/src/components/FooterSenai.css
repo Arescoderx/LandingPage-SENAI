@@ -1,0 +1,11 @@
+.imagem_footer {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.info_footer{
+  background-color: #2029AD;
+  padding: 15px;
+  color: white;
+}

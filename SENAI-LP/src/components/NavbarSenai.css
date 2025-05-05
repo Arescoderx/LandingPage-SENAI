@@ -1,0 +1,57 @@
+.navbar_senai {
+  background-color: #ffff !important;
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  z-index: 999;
+}
+
+.navbar_senai .nav-link,
+.navbar_senai .navbar-brand {
+  color: black !important;
+}
+
+.navbar_senai__nav{
+ border-radius: 15px !important;
+}
+
+.navbar_logo {
+  height: 45px;
+  object-fit: contain;
+}
+
+.nav-link {
+  font-size: 1rem;
+  color: #ffffff;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.nav-link::after,
+.nav-link::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(to right, #2029AD, #FB5909);
+  left: 0;
+  transform: scaleX(0);
+  transition: transform 0.4s ease-out;
+}
+
+.nav-link::after {
+  bottom: 5px;
+  transform-origin: right;
+}
+
+.nav-link::before {
+  top: 5px;
+  transform-origin: left;
+}
+
+.nav-link:hover::after,
+.nav-link:hover::before {
+  transform: scaleX(1);
+}

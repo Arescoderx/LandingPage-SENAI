@@ -1,0 +1,21 @@
+.info_cursos {
+  background-color: #2029AD;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 1.5rem;
+}
+
+.info_button{
+  background-color: #101F62 !important;
+  border: solid 0px #2029AD !important;
+}
+
+.negrito{
+  font-weight: bold;
+}
+
+.card-container{
+  z-index: 0;
+  
+}
