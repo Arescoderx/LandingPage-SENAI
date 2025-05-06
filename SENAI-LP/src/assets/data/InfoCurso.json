@@ -1,0 +1,160 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Programação",
+      "descricao": "Aprenda os fundamentos da programação, como lógica de programação, estruturas de dados básicas e algoritmos.",
+      "descricaoResumida": "Fundamentos de lógica, estruturas de dados e algoritmos.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "Lógica de Programação",
+        "Estruturas de Dados Básicas",
+        "Algoritmos"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Introdução à Lógica",
+          "texto": "Entenda conceitos fundamentais de lógica de programação."
+        },
+        {
+          "titulo": "Estruturas e Algoritmos",
+          "texto": "Aprenda a organizar e resolver problemas com estruturas de dados."
+        },
+        {
+          "titulo": "Hands-on Prático",
+          "texto": "Implemente algoritmos em JavaScript e Python."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Design Gráfico",
+      "descricao": "Desenvolva habilidades criativas com o uso de ferramentas como Adobe Photoshop e Illustrator.",
+      "descricaoResumida": "Criação e tratamento de imagens com Photoshop e Illustrator.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "Photoshop Básico",
+        "Illustrator Avançado",
+        "Teoria das Cores"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Ferramentas Essenciais",
+          "texto": "Domine Photoshop e Illustrator desde o zero."
+        },
+        {
+          "titulo": "Identidade Visual",
+          "texto": "Crie logos, banners e peças gráficas profissionais."
+        },
+        {
+          "titulo": "Portfólio Pronto",
+          "texto": "Monte projetos reais para apresentar ao mercado."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Redes e Infraestrutura",
+      "descricao": "Este curso foca em conceitos essenciais sobre redes de computadores, infraestrutura de TI, configuração de servidores.",
+      "descricaoResumida": "Configuração e gestão de redes e servidores de TI.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "Modelos OSI e TCP/IP",
+        "Configuração de Roteadores",
+        "Administração de Servidores"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Fundamentos de Rede",
+          "texto": "Entenda como funciona o tráfego de dados."
+        },
+        {
+          "titulo": "Infraestrutura de Servidores",
+          "texto": "Aprenda a montar e gerenciar servidores Windows/Linux."
+        },
+        {
+          "titulo": "Segurança de Rede",
+          "texto": "Implemente firewalls e políticas de acesso."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Automação Industrial",
+      "descricao": "Aprenda sobre sistemas de automação, controle de processos industriais e a implementação de tecnologias em fábricas e indústrias.",
+      "descricaoResumida": "Controle e otimização de processos industriais automatizados.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "CLPs e Controladores",
+        "Redes Industriais",
+        "Supervisório e SCADA"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Programação de CLP",
+          "texto": "Crie lógicas de controle para máquinas."
+        },
+        {
+          "titulo": "Redes Industriais",
+          "texto": "Configure protocolos como Profibus e Modbus."
+        },
+        {
+          "titulo": "Sistemas Supervisórios",
+          "texto": "Monitore e visualize processos em tempo real."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Marketing Digital",
+      "descricao": "Entenda as estratégias de marketing digital para promover produtos e serviços online.",
+      "descricaoResumida": "Planejamento e execução de campanhas digitais.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "SEO e SEM",
+        "Redes Sociais",
+        "Email Marketing"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Introdução ao SEO",
+          "texto": "Aprenda a levar seu site ao topo do Google."
+        },
+        {
+          "titulo": "Gestão de Anúncios",
+          "texto": "Crie campanhas eficientes no Facebook e Google Ads."
+        },
+        {
+          "titulo": "Engajamento Digital",
+          "texto": "Estruture estratégias para crescer nas redes sociais."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Eletrônica Básica",
+      "descricao": "O curso introduz conceitos fundamentais de eletrônica, abordando circuitos elétricos, componentes eletrônicos, soldagem e uso de multímetros.",
+      "descricaoResumida": "Circuitos, componentes e técnicas básicas de eletrônica.",
+      "imagem": "/assets/image2.png",
+      "topicos": [
+        "Leitura de Circuitos",
+        "Componentes Eletrônicos",
+        "Técnicas de Soldagem"
+      ],
+      "carrossel": [
+        {
+          "titulo": "Circuitos Elétricos",
+          "texto": "Monte e analise circuitos simples."
+        },
+        {
+          "titulo": "Componentes",
+          "texto": "Identifique resistores, capacitores e diodos."
+        },
+        {
+          "titulo": "Uso de Multímetro",
+          "texto": "Meça tensão, corrente e resistência corretamente."
+        }
+      ]
+    }
+  ]
+}

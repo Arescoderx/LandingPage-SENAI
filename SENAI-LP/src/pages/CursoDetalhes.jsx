@@ -2,11 +2,10 @@ import React from "react";
 import "./CursoDetalhe.css";
 import Carousel from "react-bootstrap/Carousel";
 import ExampleCarouselImage from "../assets/image2.png";
-import { Button } from "react-bootstrap";
 function CursoDetalhes() {
   return (
     <section>
-      <h1 className="text-center titulo">Programação</h1>
+      <h1 className="text-center">Programação</h1>
       <Carousel>
         <Carousel.Item>
           <img
