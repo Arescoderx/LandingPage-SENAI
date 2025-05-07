@@ -110,11 +110,7 @@
       "descricao": "Entenda as estratégias de marketing digital para promover produtos e serviços online.",
       "descricaoResumida": "Planejamento e execução de campanhas digitais.",
       "imagem": "/assets/image2.png",
-      "topicos": [
-        "SEO e SEM",
-        "Redes Sociais",
-        "Email Marketing"
-      ],
+      "topicos": ["SEO e SEM", "Redes Sociais", "Email Marketing"],
       "carrossel": [
         {
           "titulo": "Introdução ao SEO",
@@ -155,6 +151,20 @@
           "texto": "Meça tensão, corrente e resistência corretamente."
         }
       ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Cristiano",
+      "email": "cr7@gmail.com",
+      "senha": "7"
+    },
+    {
+      "id": "2",
+      "nome": "Matheus",
+      "email": "matheus@gmail.com",
+      "senha": "mt"
     }
   ]
 }
