@@ -1,7 +1,7 @@
 {
   "cursos": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Programação",
       "descricao": "Aprenda os fundamentos da programação, como lógica de programação, estruturas de dados básicas e algoritmos.",
       "descricaoResumida": "Fundamentos de lógica, estruturas de dados e algoritmos.",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Design Gráfico",
       "descricao": "Desenvolva habilidades criativas com o uso de ferramentas como Adobe Photoshop e Illustrator.",
       "descricaoResumida": "Criação e tratamento de imagens com Photoshop e Illustrator.",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "nome": "Redes e Infraestrutura",
       "descricao": "Este curso foca em conceitos essenciais sobre redes de computadores, infraestrutura de TI, configuração de servidores.",
       "descricaoResumida": "Configuração e gestão de redes e servidores de TI.",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "nome": "Automação Industrial",
       "descricao": "Aprenda sobre sistemas de automação, controle de processos industriais e a implementação de tecnologias em fábricas e indústrias.",
       "descricaoResumida": "Controle e otimização de processos industriais automatizados.",
@@ -105,12 +105,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "nome": "Marketing Digital",
       "descricao": "Entenda as estratégias de marketing digital para promover produtos e serviços online.",
       "descricaoResumida": "Planejamento e execução de campanhas digitais.",
       "imagem": "/assets/image2.png",
-      "topicos": ["SEO e SEM", "Redes Sociais", "Email Marketing"],
+      "topicos": [
+        "SEO e SEM",
+        "Redes Sociais",
+        "Email Marketing"
+      ],
       "carrossel": [
         {
           "titulo": "Introdução ao SEO",
@@ -127,7 +131,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "nome": "Eletrônica Básica",
       "descricao": "O curso introduz conceitos fundamentais de eletrônica, abordando circuitos elétricos, componentes eletrônicos, soldagem e uso de multímetros.",
       "descricaoResumida": "Circuitos, componentes e técnicas básicas de eletrônica.",
@@ -165,6 +169,24 @@
       "nome": "Matheus",
       "email": "matheus@gmail.com",
       "senha": "mt"
+    }
+  ],
+  "cadastros": [
+    {
+      "id": "cdf3",
+      "nome": "Matheus M",
+      "email": "pl@gmail.com",
+      "telefone": "27998831999",
+      "curso": "Programação",
+      "mensagem": "Quero fazer programa"
+    },
+    {
+      "id": "b49d",
+      "nome": "Leonar",
+      "email": "mt@gmail.com",
+      "telefone": "",
+      "curso": "Redes e Infraestrutura",
+      "mensagem": "redes"
     }
   ]
 }
