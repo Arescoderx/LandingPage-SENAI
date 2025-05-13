@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
-function Dash() {
+const Dash = () => {
   const [cadastros, setCadastros] = useState([]);
 
   useEffect(() => {
     fetch('http://localhost:5000/cadastros')
-      .then((response) => response.json())
-      .then((data) => setCadastros(data))
-      .catch((error) => console.error('Erro ao carregar os dados:', error));
+      .then(res => res.json())
+      .then(setCadastros)
+      .catch(err => console.error('Erro ao carregar os dados:', err));
   }, []);
 
   return (
@@ -16,33 +16,27 @@ function Dash() {
       <table className="table table-striped">
         <thead>
           <tr>
-            <th scope="col">Nome</th>
-            <th scope="col">Email</th>
-            <th scope="col">Telefone</th>
-            <th scope="col">Curso</th>
-            <th scope="col">Mensagem</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Curso</th>
+            <th>Mensagem</th>
           </tr>
         </thead>
         <tbody>
-          {cadastros.length > 0 ? (
-            cadastros.map((cadastro) => (
-              <tr key={cadastro.id}>
-                <td>{cadastro.nome}</td>
-                <td>{cadastro.email}</td>
-                <td>{cadastro.telefone || 'Não informado'}</td>
-                <td>{cadastro.curso}</td>
-                <td>{cadastro.mensagem}</td>
-              </tr>
-            ))
-          ) : (
-            <tr>
-              <td colSpan="4">Carregando...</td>
+          {cadastros.map(({ id, nome, email, telefone, curso, mensagem }) => (
+            <tr key={id}>
+              <td>{nome}</td>
+              <td>{email}</td>
+              <td>{telefone}</td>
+              <td>{curso}</td>
+              <td>{mensagem}</td>
             </tr>
-          )}
+          ))}
         </tbody>
       </table>
     </div>
   );
-}
+};
 
 export default Dash;

@@ -11,6 +11,17 @@
   border: solid 0px #2029AD !important;
 }
 
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  align-items: center;
+}
+
+.image-content {
+  text-align: center;
+}
+
 .negrito{
   font-weight: bold;
 }
