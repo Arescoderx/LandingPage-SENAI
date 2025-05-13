@@ -7,7 +7,7 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 import "./FooterSenai.css";
-import logo from "../assets/senai-165.png";
+import logo from "/assets/logo_senai.png"; // Importando a imagem do logo do SENAI
 const FooterSenai = () => {
   return (
     <footer className="footer_senai text-center text-lg-start text-black">

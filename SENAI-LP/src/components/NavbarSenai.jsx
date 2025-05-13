@@ -2,7 +2,7 @@ import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './NavbarSenai.css';
-import logo from '../assets/senai-165.png';
+import logo from "/assets/logo_senai.png";;
 
 const NavbarSenai = () => {
   return (

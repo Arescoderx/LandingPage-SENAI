@@ -3,9 +3,7 @@
     {
       "id": "1",
       "nome": "Programação",
-      "descricao": "Aprenda os fundamentos da programação, como lógica de programação, estruturas de dados básicas e algoritmos.",
-      "descricaoResumida": "Fundamentos de lógica, estruturas de dados e algoritmos.",
-      "imagem": "/assets/image2.png",
+      "descricao": "Aprenda os fundamentos da programação de forma prática e didática, explorando conceitos essenciais como lógica de programação, variáveis, estruturas condicionais e de repetição. O curso também aborda estruturas de dados básicas, algoritmos e boas práticas de codificação. Ao longo do conteúdo, você desenvolverá raciocínio lógico e habilidades para resolver problemas computacionais, utilizando linguagens como JavaScript e Python. Ideal para quem está começando na área de tecnologia ou deseja construir uma base sólida para seguir carreira como desenvolvedor.",
       "topicos": [
         "Lógica de Programação",
         "Estruturas de Dados Básicas",
@@ -13,14 +11,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://idocode.com.br/wp-content/uploads/2021/08/Linguagens-de-programacao-quais-as-melhores-empresas-usam-.jpg",
           "titulo": "Introdução à Lógica",
           "texto": "Entenda conceitos fundamentais de lógica de programação."
         },
         {
+          "imagem": "https://hermes.dio.me/articles/cover/e43b602a-d5b1-40b8-a0b7-fcae39e1e060.png",
           "titulo": "Estruturas e Algoritmos",
           "texto": "Aprenda a organizar e resolver problemas com estruturas de dados."
         },
         {
+          "imagem": "https://blog.marcusoliveiradev.com.br/wp-content/uploads/2022/11/pexels-luis-gomes-546819-1.jpg",
           "titulo": "Hands-on Prático",
           "texto": "Implemente algoritmos em JavaScript e Python."
         }
@@ -29,9 +30,7 @@
     {
       "id": "2",
       "nome": "Design Gráfico",
-      "descricao": "Desenvolva habilidades criativas com o uso de ferramentas como Adobe Photoshop e Illustrator.",
-      "descricaoResumida": "Criação e tratamento de imagens com Photoshop e Illustrator.",
-      "imagem": "/assets/image2.png",
+      "descricao": "Desenvolva suas habilidades criativas e técnicas com o uso das principais ferramentas do design gráfico, como Adobe Photoshop e Illustrator. Neste curso, você aprenderá desde os fundamentos do design visual até a criação de identidades visuais, peças publicitárias, layouts para mídias digitais e impressas. Serão abordados também conceitos de teoria das cores, tipografia, composição e tratamento de imagens. Ideal para quem deseja atuar profissionalmente na área ou aprimorar sua comunicação visual com projetos criativos e impactantes.",
       "topicos": [
         "Photoshop Básico",
         "Illustrator Avançado",
@@ -39,14 +38,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://www.rj.senac.br/wp-content/uploads/2019/05/design-grafico-digital.jpg",
           "titulo": "Ferramentas Essenciais",
           "texto": "Domine Photoshop e Illustrator desde o zero."
         },
         {
+          "imagem": "https://inside4u.com.br/wp-content/uploads/2023/06/O1_87_INSIDE_BLOG_TIPOGRAFIA-A-ARTE-DO-DESIGN-GRAFICO-E-COMUNICACAO-VISUAL.jpg",
           "titulo": "Identidade Visual",
           "texto": "Crie logos, banners e peças gráficas profissionais."
         },
         {
+          "imagem": "https://nqm.com.br/wp-content/uploads/2023/09/shutterstock_1575501976.jpg",
           "titulo": "Portfólio Pronto",
           "texto": "Monte projetos reais para apresentar ao mercado."
         }
@@ -55,9 +57,7 @@
     {
       "id": "3",
       "nome": "Redes e Infraestrutura",
-      "descricao": "Este curso foca em conceitos essenciais sobre redes de computadores, infraestrutura de TI, configuração de servidores.",
-      "descricaoResumida": "Configuração e gestão de redes e servidores de TI.",
-      "imagem": "/assets/image2.png",
+      "descricao": "Este curso foca nos conceitos essenciais de redes de computadores e infraestrutura de TI, preparando o aluno para atuar na instalação, configuração e manutenção de ambientes de rede. São abordados temas como modelos OSI e TCP/IP, endereçamento IP, cabeamento estruturado, configuração de roteadores e switches, além da administração de servidores Windows e Linux. O curso também inclui fundamentos de segurança de rede e práticas recomendadas para garantir estabilidade e desempenho nos sistemas corporativos. Ideal para quem deseja iniciar ou se aperfeiçoar na área de suporte e infraestrutura de TI.",
       "topicos": [
         "Modelos OSI e TCP/IP",
         "Configuração de Roteadores",
@@ -65,14 +65,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://www.officetotal.com.br/wp-content/uploads/2023/07/infraestrtutura-de-rede-900x506.jpg",
           "titulo": "Fundamentos de Rede",
           "texto": "Entenda como funciona o tráfego de dados."
         },
         {
+          "imagem": "https://media.licdn.com/dms/image/v2/D4D12AQFWq7gEU0qorQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715810520475?e=2147483647&v=beta&t=BgZOQgS5wK4zbW99NgFekebSKm3BYx41Bxr5wlMrWQI",
           "titulo": "Infraestrutura de Servidores",
           "texto": "Aprenda a montar e gerenciar servidores Windows/Linux."
         },
         {
+          "imagem": "https://www.alctel.com.br/wp-content/uploads/2021/05/infraestrutura-de-redes-scaled.jpeg",
           "titulo": "Segurança de Rede",
           "texto": "Implemente firewalls e políticas de acesso."
         }
@@ -81,9 +84,7 @@
     {
       "id": "4",
       "nome": "Automação Industrial",
-      "descricao": "Aprenda sobre sistemas de automação, controle de processos industriais e a implementação de tecnologias em fábricas e indústrias.",
-      "descricaoResumida": "Controle e otimização de processos industriais automatizados.",
-      "imagem": "/assets/image2.png",
+      "descricao": "Aprenda sobre sistemas de automação industrial, focando no controle de processos produtivos e na implementação de tecnologias em ambientes industriais. O curso aborda o funcionamento e a programação de CLPs (Controladores Lógicos Programáveis), sensores, atuadores, interfaces homem-máquina (IHMs), além da integração de redes industriais como Profibus e Modbus. Você também entenderá como aplicar sistemas supervisórios (SCADA) para monitoramento em tempo real, promovendo maior eficiência, segurança e produtividade nas linhas de produção. Ideal para quem busca atuar na modernização e automação de fábricas e indústrias.",
       "topicos": [
         "CLPs e Controladores",
         "Redes Industriais",
@@ -91,14 +92,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://www.nepin.com.br/wp-content/uploads/2022/12/tecnico-em-automacao-industrial.jpg",
           "titulo": "Programação de CLP",
           "texto": "Crie lógicas de controle para máquinas."
         },
         {
+          "imagem": "https://tcas.com.br/wp-content/uploads/2021/02/blog_beneficios-automacao-industrial.jpg",
           "titulo": "Redes Industriais",
           "texto": "Configure protocolos como Profibus e Modbus."
         },
         {
+          "imagem": "https://blog.cimautomacao.com.br/wp-content/uploads/2020/01/55555.jpg",
           "titulo": "Sistemas Supervisórios",
           "texto": "Monitore e visualize processos em tempo real."
         }
@@ -107,9 +111,7 @@
     {
       "id": "5",
       "nome": "Marketing Digital",
-      "descricao": "Entenda as estratégias de marketing digital para promover produtos e serviços online.",
-      "descricaoResumida": "Planejamento e execução de campanhas digitais.",
-      "imagem": "/assets/image2.png",
+      "descricao": "Entenda as estratégias essenciais do marketing digital para promover produtos, serviços e marcas no ambiente online. O curso aborda conceitos como planejamento de campanhas, criação de conteúdo, SEO (otimização para mecanismos de busca), anúncios pagos (Google Ads, Meta Ads), marketing de redes sociais, e-mail marketing e análise de resultados com ferramentas como Google Analytics. Ideal para quem deseja aumentar a visibilidade de negócios ou ingressar na área com conhecimentos práticos e atualizados.",
       "topicos": [
         "SEO e SEM",
         "Redes Sociais",
@@ -117,14 +119,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://www.conteudoinboundmarketing.com.br/wp-content/uploads/2021/02/marketing-digital-22.01.21.jpg",
           "titulo": "Introdução ao SEO",
           "texto": "Aprenda a levar seu site ao topo do Google."
         },
         {
+          "imagem": "https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg.optimal.jpg",
           "titulo": "Gestão de Anúncios",
           "texto": "Crie campanhas eficientes no Facebook e Google Ads."
         },
         {
+          "imagem": "https://webrain.com.br/wp-content/uploads/2024/01/cursomarketingdigital.png",
           "titulo": "Engajamento Digital",
           "texto": "Estruture estratégias para crescer nas redes sociais."
         }
@@ -133,9 +138,7 @@
     {
       "id": "6",
       "nome": "Eletrônica Básica",
-      "descricao": "O curso introduz conceitos fundamentais de eletrônica, abordando circuitos elétricos, componentes eletrônicos, soldagem e uso de multímetros.",
-      "descricaoResumida": "Circuitos, componentes e técnicas básicas de eletrônica.",
-      "imagem": "/assets/image2.png",
+      "descricao": "O curso introduz os conceitos fundamentais da eletrônica, abordando desde os princípios básicos dos circuitos elétricos até a identificação e funcionamento de componentes eletrônicos como resistores, capacitores, diodos e transistores. Além disso, o aluno aprenderá técnicas de montagem e análise de circuitos, práticas de soldagem, interpretação de esquemas elétricos e o uso adequado de instrumentos de medição, como o multímetro. Ideal para quem deseja iniciar na área com uma base sólida e aplicável tanto em projetos pessoais quanto no ambiente profissional.",
       "topicos": [
         "Leitura de Circuitos",
         "Componentes Eletrônicos",
@@ -143,14 +146,17 @@
       ],
       "carrossel": [
         {
+          "imagem": "https://www.wreducacional.com.br/img_cursos/prod/img_1230x644/industria-e-tecnologia/eletronica-basica.webp",
           "titulo": "Circuitos Elétricos",
           "texto": "Monte e analise circuitos simples."
         },
         {
+          "imagem": "https://www.bosontreinamentos.com.br/wp-content/uploads/2015/10/arduino-controlar-LED-pushb.jpg",
           "titulo": "Componentes",
           "texto": "Identifique resistores, capacitores e diodos."
         },
         {
+          "imagem": "https://rmtelefonia.com.br/wp-content/uploads/2024/07/Curso-de-Eletronica-Basica-Principios-Fundamentais-e-Aplicacoes-Praticas.jpg",
           "titulo": "Uso de Multímetro",
           "texto": "Meça tensão, corrente e resistência corretamente."
         }
@@ -187,6 +193,14 @@
       "telefone": "",
       "curso": "Redes e Infraestrutura",
       "mensagem": "redes"
+    },
+    {
+      "id": "aad3",
+      "nome": "Gregori",
+      "email": "Gregori@gmail.com",
+      "telefone": "",
+      "curso": "Marketing Digital",
+      "mensagem": ""
     }
   ]
 }

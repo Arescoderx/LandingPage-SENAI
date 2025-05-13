@@ -6,6 +6,7 @@ import Historia from "./pages/Historia";
 import Login from "./pages/Login";
 import NavbarSenai from "./components/NavbarSenai";
 import FooterSenai from "./components/FooterSenai";
+import Dash from "./pages/Dash";
 import "./App.css";
 function App() {
   return (
@@ -14,10 +15,11 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/curso" element={<CursoDetalhes />} />
+          <Route path="/curso/:id" element={<CursoDetalhes />} />
           <Route path="/cadastro" element={<Cadastro />} />
           <Route path="/historia" element={<Historia />} />
           <Route path="/login" element={<Login />} />
+          <Route path="/dash" element={<Dash />} />
         </Routes>
       </main>
       <FooterSenai />
